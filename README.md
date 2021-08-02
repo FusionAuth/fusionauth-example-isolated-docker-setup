@@ -1,3 +1,8 @@
+## Moved
+
+All this code is moved to https://github.com/FusionAuth/fusionauth-example-scripts
+
+
 ## Isolated Docker Install Set Up
 
 This project sets up a docker image with ES and FusionAuth at a given FusionAuth version. 
